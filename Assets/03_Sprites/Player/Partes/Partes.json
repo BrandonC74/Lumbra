@@ -1,0 +1,102 @@
+{
+  "parts": [
+    {
+      "name": "Normal_Head",
+      "width": 296,
+      "height": 237,
+      "pivotX": 221.0,
+      "pivotY": 184.0
+    },
+    {
+      "name": "Normal_Cloak",
+      "width": 392,
+      "height": 481,
+      "pivotX": 200.5363321799308,
+      "pivotY": 6.494809688581313
+    },
+    {
+      "name": "Normal_Arm",
+      "width": 110,
+      "height": 252,
+      "pivotX": 77.50301568154403,
+      "pivotY": 11.24728588661037
+    },
+    {
+      "name": "Normal_LanternArm",
+      "width": 184,
+      "height": 204,
+      "pivotX": 11.443415637860085,
+      "pivotY": 163.7037037037037
+    },
+    {
+      "name": "Normal_Lantern",
+      "width": 74,
+      "height": 132,
+      "pivotX": 48.72222222222217,
+      "pivotY": 3.2222222222222285
+    },
+    {
+      "name": "Normal_Leg",
+      "width": 173,
+      "height": 237,
+      "pivotX": 52.44111776447107,
+      "pivotY": 8.812375249500974
+    },
+    {
+      "name": "Tired_Head",
+      "width": 278,
+      "height": 235,
+      "pivotX": 207.0,
+      "pivotY": 183.0
+    },
+    {
+      "name": "Tired_Cloak",
+      "width": 411,
+      "height": 486,
+      "pivotX": 285.2164009111618,
+      "pivotY": 7.186788154897499
+    },
+    {
+      "name": "Tired_Arm",
+      "width": 116,
+      "height": 256,
+      "pivotX": 84.99388753056235,
+      "pivotY": 11.277506112469439
+    },
+    {
+      "name": "Tired_LanternArm",
+      "width": 194,
+      "height": 204,
+      "pivotX": 11.45483870967746,
+      "pivotY": 164.35698924731184
+    },
+    {
+      "name": "Tired_Lantern",
+      "width": 72,
+      "height": 138,
+      "pivotX": 46.75999999999999,
+      "pivotY": 3.3600000000000136
+    },
+    {
+      "name": "Tired_Leg",
+      "width": 151,
+      "height": 213,
+      "pivotX": 87.59921671018287,
+      "pivotY": 8.27806788511748
+    }
+  ],
+  "Normal": {
+    "legLength": 227.18762475049903,
+    "neckOffsetX": 9.979277104275639,
+    "hemToNeck": 473.5051903114187,
+    "handX": 157.22727011948734,
+    "handY": -163.7037037037037
+  },
+  "Tired": {
+    "legLength": 203.72193211488252,
+    "neckOffsetX": 64.56241459465468,
+    "hemToNeck": 477.8132118451025,
+    "handX": 167.06922144069858,
+    "handY": -163.35698924731184
+  }
+}
