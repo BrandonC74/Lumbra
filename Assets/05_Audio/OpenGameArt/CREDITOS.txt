@@ -1,0 +1,15 @@
+Sonidos de OpenGameArt.org (todos con licencia CC0, dominio público)
+
+HeartbeatSlow / HeartbeatFast - "Heartbeat sounds" de bart - https://opengameart.org/content/heartbeat-sounds
+Panting                       - "Breathing Tired" de mikeask - https://opengameart.org/content/breathing-tired
+GhostScream                   - "Scary High-pitched Ghost" de Fupi - https://opengameart.org/content/scary-high-pitched-ghost
+AmbientHorror                 - "Ambient horror" de techiew - https://opengameart.org/content/ambient-horror
+MusicExplore (música)         - "Dark Place (loop)" de SkyleTheFrench - https://opengameart.org/content/dark-place-loop
+MusicBoss (música)            - "Battle Theme" de Wolfgang_ - https://opengameart.org/content/battle-theme-0
+
+Además: efectos de Kenney.nl (CC0) en la carpeta Kenney.
+
+Voces susurradas (05_Audio/Voices): generadas con las voces de texto a voz de Windows (Sabina y David)
+y procesadas con un efecto de susurro. Son provisionales: lo ideal es grabarlas con nuestras propias voces.
+
+Fuentes (06_Fonts): Cinzel y Alegreya Sans, licencia SIL Open Font License 1.1 (archivos OFL_*.txt).
