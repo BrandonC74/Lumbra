@@ -1,0 +1,27 @@
+# Carpetas que Unity genera solo (no se suben)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+
+# Archivos del editor de código
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+.vs/
+.vscode/
+.idea/
+
+# Varios
+*.pidb.meta
+*.pdb.meta
+crashlytics-build.properties
+
+# Python
+__pycache__/
+*.pyc
